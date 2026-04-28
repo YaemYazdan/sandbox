@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 05:46 IR
+- 📥 [AssaultCube_v1.3.0.2_LockdownEdition.exe](https://github.com/YaemYazdan/sandbox/raw/main/dl/AssaultCube_v1.3.0.2_LockdownEdition.exe) `46.0MB`
+
+---
+
+
 ### 📅 2026-04-28 02:58 IR
 - 🗜️ [nightly-windows-x86_64-2026-04-15T22_31.zip.zip](https://github.com/YaemYazdan/sandbox/raw/main/dl/nightly-windows-x86_64-2026-04-15T22_31.zip.zip) `68.0MB`
 
